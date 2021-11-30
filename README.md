@@ -9,6 +9,7 @@
 * ###### Projeto Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB : [Repositório Git](https://github.com/volneineves/SpringIonic)
 * ###### API Rest de consulta de cidades do Brasil: [Repositório Git](https://github.com/volneineves/apirestdigitalinnovation)
 * ###### Zeromon Marketplace - Pokemón Marketplace: [Repositório Git](https://github.com/volneineves/zeromonMarketPlace)
+* ###### API Rest - Formação Spring Framework Alura: [Repositório Git](https://github.com/volneineves/ApiRestAlura)
 
 
 ## :telephone: Contato
