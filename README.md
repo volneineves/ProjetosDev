@@ -10,7 +10,8 @@
 * ###### API Rest de consulta de cidades do Brasil: [Repositório Git](https://github.com/volneineves/apirestdigitalinnovation)
 * ###### Zeromon Marketplace - Pokemón Marketplace: [Repositório Git](https://github.com/volneineves/zeromonMarketPlace)
 * ###### API Rest - Formação Spring Framework Alura: [Repositório Git](https://github.com/volneineves/ApiRestAlura)
-
+* ###### Rentalx - Ignite: [Repositório Git](https://github.com/volneineves/ignite-node-rentalx)
+* ###### DSMovie - Spring-React-Week: [Repositório Git](https://github.com/volneineves/dsmovie)
 
 ## :telephone: Contato
 
